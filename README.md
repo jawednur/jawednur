@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31u6yu32kyq2doxzcfadk2mil7jq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31u6yu32kyq2doxzcfadk2mil7jq&redirect=true)
+![Spotify Playing Now](https://spotify-readme-theta.vercel.app/api/spotify-playing)
 <!--
 **jawednur/jawednur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
