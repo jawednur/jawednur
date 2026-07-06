@@ -1,5 +1,6 @@
 ## Hi there 👋
-![Spotify Playing Now](https://spotify-readme-theta.vercel.app/api/spotify-playing)
+![Spotify Playing Now]([spotify-badge-two-rouge.vercel.app](https://spotify-badge-two-rouge.vercel.app/)
+)
 <!--
 **jawednur/jawednur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
