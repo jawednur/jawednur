@@ -1,6 +1,4 @@
-## Hi there 👋
-![Spotify Playing Now]([spotify-badge-two-rouge.vercel.app](https://spotify-badge-two-rouge.vercel.app/)
-)
+[![Spotify](https://spotify-badge-two-rouge.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/<your-spotify-username>)
 <!--
 **jawednur/jawednur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
