@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Spotify](https://spotify-badge-two-rouge.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)]
+![Spotify](https://spotify-badge-two-rouge.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)
 
 </div>
 <!--
